@@ -21,6 +21,7 @@ Backend-разработчик из Могилева, Беларусь.
 ## Проекты
 
 - [archive](https://github.com/alion52/alion52-archive) — архив учебных и тестовых проектов
+- [portfolio-cases](https://github.com/alion52/portfolio-cases) — описания коммерческих проектов
 
 ## Контакты
 
